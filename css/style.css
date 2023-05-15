@@ -177,7 +177,7 @@ body {
     background: linear-gradient(var(--light-slate-blue), var(--light-royal-blue));
 }
 
-@media only screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .results-container {
         flex-direction: column;
     }
