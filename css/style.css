@@ -81,7 +81,7 @@ body {
 }
 
 .your-result .total-score p {
-    color: hsl(241, 100%, 89%, 0.6);
+    color: hsla(241, 100%, 89%, 0.6);
 }
 
 .your-result h4 {
@@ -122,22 +122,22 @@ body {
 }
 
 .summary .stats .red {
-    background-color: hsl(0, 100%, 67%, 0.05);
+    background-color: hsla(0, 100%, 67%, 0.05);
     color: var(--light-red);
 }
 
 .summary .stats .yellow {
-    background-color: hsl(39, 100%, 56%, 0.05);
+    background-color: hsla(39, 100%, 56%, 0.05);
     color: var(--orangey-yellow);
 }
 
 .summary .stats .green {
-    background-color: hsl(166, 100%, 37%, 0.05);
+    background-color: hsla(166, 100%, 37%, 0.05);
     color: var(--green-teal);
 }
 
 .summary .stats .blue {
-    background-color: hsl(234, 85%, 45%, 0.05);
+    background-color: hsla(234, 85%, 45%, 0.05);
     color: var(--cobalt-blue);
 }
 
@@ -156,7 +156,7 @@ body {
 }
 
 .summary .stats .stat-score .hundred {
-    color: hsl(224, 30%, 27%, 0.5);
+    color: hsla(224, 30%, 27%, 0.5);
 }
 
 /* Button */
