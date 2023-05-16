@@ -73,7 +73,7 @@ body {
     margin-top: 30px;
 }
 
-.your-result .total-score h3 {
+.your-result .total-score h1 {
     color: var(--white);
     font-size: 3.5rem;
     font-weight: 700;
