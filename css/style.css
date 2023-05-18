@@ -83,7 +83,7 @@ body {
     color: hsla(241, 100%, 89%, 0.6);
 }
 
-.your-result h2 {
+.your-result .remark {
     color: var(--white);
     font-size: 1.7rem;
     font-weight: 700;
